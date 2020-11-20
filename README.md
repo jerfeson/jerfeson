@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my personal projects and in some open things
 - 🌱 I’m currently learning Flutter ♥
 - 👯 I’m looking to collaborate on in libraries and skeletons in slim 4
-- 🤔 I’m looking for help with designer
+- 🤔 I’m looking for help with Vue.js
 - 💬 Ask me about Slim4
 - ⚡ Fun fact I've recorded a rock DVD
 
